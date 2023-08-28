@@ -2,13 +2,17 @@ Root-finding started...
 Number of roots: 1
 One root: -1
 Verification: 0
+--------------------------
 Number of roots: 2
 Two roots: 1 and -0.5
 Verification for root1: 0
 Verification for root2: 0
+--------------------------
 Number of roots: 0
 No real roots
+--------------------------
 Number of roots: 2
 Two roots: 0.732051 and -2.73205
 Verification for root1: 0
 Verification for root2: 4.76837e-07
+--------------------------

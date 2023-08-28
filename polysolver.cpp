@@ -26,6 +26,8 @@ int main(int argc, const char* argv[]){
 		else{
 			std::cout << "No real roots" << std::endl;
 		}
+		
+		std::cout << "--------------------------" << std::endl;
 	}
 	return 0;
 }
